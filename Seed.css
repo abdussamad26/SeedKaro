@@ -1,0 +1,57 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.top-nav {
+    border-bottom: 4px solid rgb(0, 187, 16);
+}
+.seed-text {
+    padding-left: 20%;
+    font-size: x-large;
+    font-weight: 900;
+}
+#navbarSupportedContent {
+    padding-right: 15%;
+}
+.nav-item {
+    padding-right: 60px;
+    font-size: larger;
+}
+.first-column {
+    padding-top: 12% !important;
+}
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0 6px #999;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  #iphone-img {
+    width: 80%;
+    margin-left: 22% !important;
+  }
+  .card {
+    height: 300px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .icons {
+    color: #0fcd0c;
+  }
+  .about-img {
+    width: 100%;
+  }
+  

@@ -54,4 +54,19 @@
   .about-img {
     width: 100%;
   }
-  
+  @media (max-width : 767px) {
+  .about-img {
+    width: 70%;
+    height: 112%;
+  }
+  p {
+    font-size: 14px;
+  }
+  .earn-bns {
+    font-size: 18px !important;
+    padding-right: 15%;
+  }
+  .earn-fnd {
+    padding-right: 15%;
+  }
+}

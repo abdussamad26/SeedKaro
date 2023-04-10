@@ -57,10 +57,11 @@
   @media (max-width : 767px) {
   .about-img {
     width: 70%;
-    height: 112%;
+    height: 105%;
+    padding-top: 10%;
   }
   p {
-    font-size: 14px;
+    font-size: 15px;
   }
   .earn-bns {
     font-size: 18px !important;
@@ -68,5 +69,38 @@
   }
   .earn-fnd {
     padding-right: 15%;
+  }
+  #iphone-img {
+    margin-left: 10% !important;
+  }
+  .first-btn,.btn-text {
+    margin-left: 32%;
+    font-size: 12px;
+  }
+  .second-btn {
+    margin-left: 33% !important;
+  }
+  .third-btn {
+    position: relative;
+    font-size: 12px;
+    right: 12%;
+    margin-top: -3% !important;
+  }
+  .mobile-1 {
+    margin-left: 20%;
+    width: 40% !important;
+  }
+  .mobile-2 {
+      width: 55% !important;
+  }
+  .last-ul {
+    margin-left: 21%;
+  }
+  .text {
+    text-align: center;
+  }
+  .Williamsom-text {
+    margin-top: -12% !important;
+    margin-left: 10%;
   }
 }
